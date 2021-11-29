@@ -1,2 +1,2 @@
-# ISS-Tracker-1-Teacher-Ref
-Reference code for C76
+# Localizador-EEI-1-Referencia-Maestra
+Código de referencia para la C76
